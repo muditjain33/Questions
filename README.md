@@ -24,5 +24,5 @@ Neurons of one layer connect only to neurons of the immediately preceding and im
 ```
 
 ## How to run
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt <br>
 python questions.py corpus
